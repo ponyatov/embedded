@@ -1,0 +1,8 @@
+```json
+    // Rust
+    "rust-analyzer.checkOnSave"       : false,
+    "[rust]": {
+        "editor.defaultFormatter"     : "rust-lang.rust-analyzer",
+        "editor.formatOnSave"         : true},
+    "rust-analyzer.cargo.target"      : "x86_64-unknown-linux-gnu",
+```
